@@ -5,18 +5,16 @@ import os
 #  Just in case if we get the CORs error in the client
 from flask_cors import CORS
 
-
 app = Flask(__name__)
 CORS(app)
-
 
 @app.route('/register', methods=['POST',])
 def register():
     data = dict(request.form)
     file = request.files.get('voice')
-    if file.filename == '':
-            flash('No selected file')
-            return "bad"
+    if file is None:
+        print('No selected file')
+        return "bad"
 
     filename = file.filename
     file.save(os.path.join(os.path.dirname(__file__), filename))
