@@ -46,8 +46,9 @@ class SpeakerDiarization:
 
     def unifyWords(self, words_info):
         result = ""
-        for word in words_info:
-            result += word.word +" "
+        for word_info in words_info:
+            for word in word_info:
+                result += word.word +" "
         return result
 
     def personDialogue(self, words_info):
