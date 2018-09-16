@@ -1,7 +1,7 @@
 results {
   alternatives {
     transcript: "so guys what you guys think about the musical over there"
-    confidence: 0.8383190631866455
+    confidence: 0.8383120894432068
     words {
       start_time {
         nanos: 700000000
@@ -139,7 +139,7 @@ results {
 results {
   alternatives {
     transcript: " can do what they want it\'s just a little slightly annoying sometimes"
-    confidence: 0.9574705958366394
+    confidence: 0.9574655890464783
     words {
       start_time {
         nanos: 700000000
@@ -417,7 +417,7 @@ results {
 results {
   alternatives {
     transcript: " yeah it\'s my first I could. And it\'s extra really fucking annoying dealing with all these kids"
-    confidence: 0.7996460795402527
+    confidence: 0.7996465563774109
     words {
       start_time {
         nanos: 700000000
@@ -891,7 +891,7 @@ results {
 results {
   alternatives {
     transcript: " I bet it would just be the kid that I sign next to the orientation no but half of that same kid t-shirt for this I got on"
-    confidence: 0.9049909710884094
+    confidence: 0.9049850106239319
     words {
       start_time {
         nanos: 700000000
