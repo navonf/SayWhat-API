@@ -30,11 +30,12 @@ class SpeakerRecognition:
             response = conn.getresponse()
             json_obj = json.loads(response.read().decode('utf-8'))
             # print(json_obj)
+            conn.close()
+            print(json_obj)
             if (json_obj['status'] == 'succeeded'):
                 return json_obj['processingResult']['identifiedProfileId']
             else:
-                raise Exception
-            conn.close()
+                return None
         except Exception as e:
             print("[Errno {0}] {1}".format(e.errno, e.strerror))
 
@@ -69,8 +70,6 @@ class SpeakerRecognition:
             conn = http.client.HTTPSConnection(self.url)
             conn.request("GET", "/spid/v1.0/identificationProfiles?%s" % self.params, "{body}", self.headers)
             response = conn.getresponse()
-            print("hola")
-            print(response)
             json_obj = json.loads(response.read().decode('utf-8'))
             # print(json_obj)
             conn.close()
@@ -149,10 +148,10 @@ class SpeakerRecognition:
 
 # sr = SpeakerRecognition()
 # sr.toWAV("test.webm", "NavonOther.wav")
-# sr.Enroll("bd3ea57b-e546-4c81-a64d-3e64b2dd4120", "Navon.wav")
+# sr.Enroll(sr.CreateProfile(), "Justin.wav")
 # time.sleep(5)
 # print(sr.getAllProfile())
 # processId = sr.identify("Navon_Justin.wav", sr.getAllProfile(), True)
 # time.sleep(5)
 # print(sr.getIdentification(processId))
-# sr.DeleteEnrollment(sr.CreateProfile())
+# sr.DeleteEnrollment("42868683-59c3-4d9e-948c-d6544f86c8ac")

@@ -24,11 +24,3 @@ class TextAnalytics:
             conn.close()
         except Exception as e:
             print("[Errno {0}] {1}".format(e.errno, e.strerror))
-
-
-
-ta = TextAnalytics()
-print(ta.getKeyPhrases("Today we are going to talk about machine learning "+
-                 "I am going to describe the different algorithms for classification "+
-                 "and what are the best cases to use them However we are also going to "+
-                 "talk about restful apis and how they integrate with machine learning"))

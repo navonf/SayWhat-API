@@ -56,7 +56,7 @@ class SpeakerDiarization:
 
         return result
 
-# 
+#
 #
 # sd = SpeakerDiarization(2)
 # result = sd.speechDiarization("Navon_Justin.wav")
