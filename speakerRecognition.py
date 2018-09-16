@@ -31,7 +31,7 @@ class SpeakerRecognition:
             json_obj = json.loads(response.read().decode('utf-8'))
             # print(json_obj)
             conn.close()
-            print(json_obj)
+            # print(json_obj)
             if (json_obj['status'] == 'succeeded'):
                 return json_obj['processingResult']['identifiedProfileId']
             else:

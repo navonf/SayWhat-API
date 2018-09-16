@@ -27,13 +27,15 @@ class TextVoiceParser:
                 break
             personAudio += audio[dialogue.start_time.seconds*1000 : dialogue.end_time.seconds*1000]
 
+        if (len(personAudio) == 0):
+            return
         file_handle = personAudio.export(str(number)+self.audioName, format="wav")
         self.recognition(str(number)+self.audioName, number)
 
     def recognition(self, personVoice, number):
         sr = SpeakerRecognition()
         operationid = sr.identify(personVoice, sr.getAllProfile(), True)
-        time.sleep(8)
+        time.sleep(3)
         if (sr.getIdentification(operationid) not in self.mapFinal.values()):
             self.mapFinal[number] = sr.getIdentification(operationid)
 

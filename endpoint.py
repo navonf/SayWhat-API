@@ -23,7 +23,7 @@ def analyzeVoice():
     file.save(os.path.join(os.path.dirname(__file__), filename))
     name = filename.split(".")[0]
     sr = SpeakerRecognition()
-    sr.toWAV(filename, name + ".wav")
+    # sr.toWAV(filename, name + ".wav")
     filename = name + ".wav"
     sr.toMono(filename)
     sd = SpeakerDiarization(data)
