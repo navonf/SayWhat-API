@@ -154,4 +154,4 @@ class SpeakerRecognition:
 # processId = sr.identify("Navon_Justin.wav", sr.getAllProfile(), True)
 # time.sleep(5)
 # print(sr.getIdentification(processId))
-# sr.DeleteEnrollment("42868683-59c3-4d9e-948c-d6544f86c8ac")
+# sr.DeleteEnrollment("ca44ab3f-d8e9-45dc-88ac-d6be38f1da42")

@@ -19,8 +19,7 @@ class SpeakerDiarization:
         self.url = None
         self.speakerCount = speakerCount
 
-    def speechDiarization(self, audioName):
-        speakerCount = 2
+    def speechDiarization(self, audioName):    
 
         with open(audioName, 'rb') as audio_file:
             content = audio_file.read()
@@ -34,9 +33,17 @@ class SpeakerDiarization:
                 diarization_speaker_count=self.speakerCount)
 
             print('Waiting for operation to complete...')
+
             response = client.recognize(config, audio)
+            file = open(os.path.join(os.path.dirname(__file__), 'OutPutTest.txt'), "w")
+            file.write(str(response))
+            file.close()
+
+
             result = response.results[-1]
-            words_info = result.alternatives[0].words
+
+            for transcripts in result.alternatives:
+                words_info = transcripts.words
             return words_info
 
     def unifyWords(self, words_info):

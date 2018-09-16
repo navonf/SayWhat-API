@@ -1,0 +1,1694 @@
+results {
+  alternatives {
+    transcript: "so guys what you guys think about the musical over there"
+    confidence: 0.8383190631866455
+    words {
+      start_time {
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      word: "so"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      word: "guys"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      word: "what"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      word: "you"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      word: "guys"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "think"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      word: "about"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "the"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "musical"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "over"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 700000000
+      }
+      word: "there"
+      speaker_tag: 2
+    }
+  }
+  language_code: "en-us"
+}
+results {
+  alternatives {
+    transcript: " can do what they want it\'s just a little slightly annoying sometimes"
+    confidence: 0.9574705958366394
+    words {
+      start_time {
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      word: "so"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      word: "what"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      word: "you"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "think"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      word: "about"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "musical"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "over"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 700000000
+      }
+      word: "there"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      word: "can"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      word: "do"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      word: "what"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      word: "they"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 8
+      }
+      word: "want"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 8
+      }
+      end_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      word: "it\'s"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 9
+      }
+      word: "just"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+      }
+      end_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      word: "a"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      word: "little"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      word: "slightly"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      word: "annoying"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 300000000
+      }
+      word: "sometimes"
+      speaker_tag: 2
+    }
+  }
+  language_code: "en-us"
+}
+results {
+  alternatives {
+    transcript: " yeah it\'s my first I could. And it\'s extra really fucking annoying dealing with all these kids"
+    confidence: 0.7996460795402527
+    words {
+      start_time {
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      word: "so"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      word: "what"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      word: "you"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "think"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      word: "about"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "musical"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "over"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 700000000
+      }
+      word: "there"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      word: "can"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      word: "do"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      word: "what"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      word: "they"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 8
+      }
+      word: "want"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 8
+      }
+      end_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      word: "it\'s"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 9
+      }
+      word: "just"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+      }
+      end_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      word: "a"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      word: "little"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      word: "slightly"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      word: "annoying"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 300000000
+      }
+      word: "sometimes"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 18
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 19
+      }
+      word: "yeah"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+      }
+      end_time {
+        seconds: 19
+        nanos: 400000000
+      }
+      word: "it\'s"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 600000000
+      }
+      word: "my"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      word: "first"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 20
+      }
+      word: "I"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+      }
+      end_time {
+        seconds: 20
+        nanos: 300000000
+      }
+      word: "could."
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 500000000
+      }
+      word: "And"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 800000000
+      }
+      word: "it\'s"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 800000000
+      }
+      word: "extra"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 22
+      }
+      word: "really"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 22
+      }
+      end_time {
+        seconds: 22
+        nanos: 700000000
+      }
+      word: "fucking"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 23
+      }
+      word: "annoying"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+      }
+      end_time {
+        seconds: 23
+        nanos: 800000000
+      }
+      word: "dealing"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      word: "with"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 100000000
+      }
+      word: "all"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 200000000
+      }
+      word: "these"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 600000000
+      }
+      word: "kids"
+      speaker_tag: 4
+    }
+  }
+  language_code: "en-us"
+}
+results {
+  alternatives {
+    transcript: " I bet it would just be the kid that I sign next to the orientation no but half of that same kid t-shirt for this I got on"
+    confidence: 0.9049909710884094
+    words {
+      start_time {
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      word: "so"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      word: "what"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      word: "you"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      word: "guys"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      word: "think"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 1
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      word: "about"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      word: "musical"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "over"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 700000000
+      }
+      word: "there"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      word: "can"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 6
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      word: "do"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      word: "what"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      word: "they"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 8
+      }
+      word: "want"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 8
+      }
+      end_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      word: "it\'s"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 9
+      }
+      word: "just"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 9
+      }
+      end_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      word: "a"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      word: "little"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      word: "slightly"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      word: "annoying"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 300000000
+      }
+      word: "sometimes"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 18
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 19
+      }
+      word: "yeah"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+      }
+      end_time {
+        seconds: 19
+        nanos: 400000000
+      }
+      word: "it\'s"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 600000000
+      }
+      word: "my"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      word: "first"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 20
+      }
+      word: "I"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+      }
+      end_time {
+        seconds: 20
+        nanos: 300000000
+      }
+      word: "could."
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 500000000
+      }
+      word: "And"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 800000000
+      }
+      word: "it\'s"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 800000000
+      }
+      word: "extra"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 22
+      }
+      word: "really"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 22
+      }
+      end_time {
+        seconds: 22
+        nanos: 700000000
+      }
+      word: "fucking"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 23
+      }
+      word: "annoying"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 23
+      }
+      end_time {
+        seconds: 23
+        nanos: 800000000
+      }
+      word: "dealing"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      word: "with"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 100000000
+      }
+      word: "all"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 200000000
+      }
+      word: "these"
+      speaker_tag: 3
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 24
+        nanos: 600000000
+      }
+      word: "kids"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 900000000
+      }
+      word: "I"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 100000000
+      }
+      word: "bet"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 200000000
+      }
+      word: "it"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      word: "would"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 400000000
+      }
+      word: "just"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 600000000
+      }
+      word: "be"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 700000000
+      }
+      word: "the"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 900000000
+      }
+      word: "kid"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 27
+      }
+      word: "that"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+      }
+      end_time {
+        seconds: 27
+        nanos: 100000000
+      }
+      word: "I"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 400000000
+      }
+      word: "sign"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 600000000
+      }
+      word: "next"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 700000000
+      }
+      word: "to"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      word: "the"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 28
+        nanos: 200000000
+      }
+      word: "orientation"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 28
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 29
+      }
+      word: "no"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 29
+      }
+      end_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      word: "but"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 400000000
+      }
+      word: "half"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 400000000
+      }
+      word: "of"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 700000000
+      }
+      word: "that"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 100000000
+      }
+      word: "same"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 300000000
+      }
+      word: "kid"
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 200000000
+      }
+      word: "t-shirt"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 800000000
+      }
+      word: "for"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 39
+      }
+      word: "this"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+      }
+      end_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      word: "I"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 300000000
+      }
+      word: "got"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 600000000
+      }
+      word: "on"
+      speaker_tag: 4
+    }
+  }
+  language_code: "en-us"
+}

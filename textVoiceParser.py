@@ -34,7 +34,8 @@ class TextVoiceParser:
         sr = SpeakerRecognition()
         operationid = sr.identify(personVoice, sr.getAllProfile(), True)
         time.sleep(8)
-        self.mapFinal[number] = sr.getIdentification(operationid)
+        if (sr.getIdentification(operationid) not in self.mapFinal.values()):
+            self.mapFinal[number] = sr.getIdentification(operationid)
 
 # sd = SpeakerDiarization(2)
 # ta = TextAnalytics()
