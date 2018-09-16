@@ -11,7 +11,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/analyze', methods=['POST',])
+@app.route('/analyzeLocal', methods=['POST',])
 def analyzeVoice():
     data = int(request.form.get('speakers')[0])
     file = request.files.get('voice')
@@ -24,6 +24,44 @@ def analyzeVoice():
     name = filename.split(".")[0]
     sr = SpeakerRecognition()
     # sr.toWAV(filename, name + ".wav")
+    filename = name + ".wav"
+    sr.toMono(filename)
+    sd = SpeakerDiarization(data)
+    ta = TextAnalytics()
+    result = sd.speechDiarization(filename)
+    keywords = ta.getKeyPhrases(sd.unifyWords(result))
+    tp = TextVoiceParser(sd.personDialogue(result), filename)
+    tp.recognizeSpeakers()
+    mapFinal = tp.mapFinal
+    print(keywords)
+    print(mapFinal)
+
+    users = {}
+
+    for user in mapFinal:
+        users[mapFinal[user]] = {}
+
+    for keyword in keywords:
+        for personWord in result:
+            if (personWord.word in keyword and personWord.speaker_tag in mapFinal.keys()
+            and personWord.word not in users[mapFinal[personWord.speaker_tag]].keys()):
+                users[mapFinal[personWord.speaker_tag]][keyword] = personWord.start_time
+
+    print(users)
+
+    return "good"
+
+@app.route('/analyze', methods=['POST',])
+def analyzeVoice():
+    raw_blob = request.files['audio'].read()
+    name = request.form['speakers']
+    filename = str(name) + "_register.webm"
+    with open(filename, 'wb') as dest:
+        dest.write(raw_blob)
+
+    name = filename.split(".")[0]
+    sr = SpeakerRecognition()
+    sr.toWAV(filename, name + ".wav")
     filename = name + ".wav"
     sr.toMono(filename)
     sd = SpeakerDiarization(data)
